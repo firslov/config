@@ -1,7 +1,9 @@
 * Install
+In shell:
 #+BEGIN_SRC shell
 git clone git@github.com:firslov/config.git /any/path/
 #+END_SRC
+then
 #+BEGIN_SRC shell
 cd /any/path/
 make
@@ -12,6 +14,7 @@ cd /any/path/
 make install
 #+END_SRC
 * Backup
+In shell:
 #+BEGIN_SRC shell
 cd /any/path/
 make backup
