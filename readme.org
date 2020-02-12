@@ -1,12 +1,18 @@
 * Install
 #+BEGIN_SRC shell
+git clone git@github.com:firslov/config.git /any/path/
+#+END_SRC
+#+BEGIN_SRC shell
+cd /any/path/
 make
 #+END_SRC
 or
 #+BEGIN_SRC shell
+cd /any/path/
 make install
 #+END_SRC
 * Backup
 #+BEGIN_SRC shell
+cd /any/path/
 make backup
 #+END_SRC
