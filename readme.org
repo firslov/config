@@ -1,0 +1,12 @@
+* Install
+#+BEGIN_SRC shell
+make
+#+END_SRC
+or
+#+BEGIN_SRC shell
+make install
+#+END_SRC
+* Backup
+#+BEGIN_SRC shell
+make backup
+#+END_SRC
